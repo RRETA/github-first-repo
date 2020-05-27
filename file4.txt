@@ -1,1 +1,2 @@
-Este es un archivo nuevo de branch 2 
+Este es un archivo nuevo de branch 2
+Moficando el archivo 
